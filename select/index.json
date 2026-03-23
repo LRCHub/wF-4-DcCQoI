@@ -1,0 +1,145 @@
+{
+  "version": 1,
+  "base_track": "LONELY NIGHTS",
+  "base_artist": "tofubeats",
+  "createdAt": "2026-03-23T20:10:59.732343Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Lonely Nights",
+      "artist": "FM Attack",
+      "has_synced": false,
+      "path": "select/01_Lonely_Nights_FM_Attack.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Lonely Nights",
+      "artist": "PHASES",
+      "has_synced": true,
+      "path": "select/02_Lonely_Nights_PHASES.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Lonely Nights",
+      "artist": "Bonfire",
+      "has_synced": true,
+      "path": "select/03_Lonely_Nights_Bonfire.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Lonely Nights",
+      "artist": "Scorpions",
+      "has_synced": false,
+      "path": "select/04_Lonely_Nights_Scorpions.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Lonely Nights",
+      "artist": "TNT",
+      "has_synced": true,
+      "path": "select/05_Lonely_Nights_TNT.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Lonely Nights",
+      "artist": "White Lion",
+      "has_synced": true,
+      "path": "select/06_Lonely_Nights_White_Lion.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Sad Days Lonely Nights",
+      "artist": "Junior Kimbrough",
+      "has_synced": false,
+      "path": "select/07_Sad_Days_Lonely_Nights_Junior_Kimbrough.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "No More Lonely Nights",
+      "artist": "Wishbone Ash",
+      "has_synced": false,
+      "path": "select/08_No_More_Lonely_Nights_Wishbone_Ash.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Lonely Nights",
+      "artist": "Uriah Heep",
+      "has_synced": true,
+      "path": "select/09_Lonely_Nights_Uriah_Heep.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Lonely Nights (Live)",
+      "artist": "Uriah Heep",
+      "has_synced": false,
+      "path": "select/10_Lonely_Nights_(Live)_Uriah_Heep.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Through the Lonely Nights",
+      "artist": "The Rolling Stones",
+      "has_synced": true,
+      "path": "select/11_Through_the_Lonely_Nights_The_Rolling_Stones.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Lonely Days, Lonely Nights",
+      "artist": "Whitesnake",
+      "has_synced": true,
+      "path": "select/12_Lonely_Days,_Lonely_Nights_Whitesnake.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Lonely Nights",
+      "artist": "Gary Moore",
+      "has_synced": true,
+      "path": "select/13_Lonely_Nights_Gary_Moore.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Lonely Nights",
+      "artist": "Bryan Adams",
+      "has_synced": true,
+      "path": "select/14_Lonely_Nights_Bryan_Adams.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Lonely Nights",
+      "artist": "Uriah Heep",
+      "has_synced": false,
+      "path": "select/15_Lonely_Nights_Uriah_Heep.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "LONELY NIGHTS",
+      "artist": "tofubeats",
+      "has_synced": false,
+      "path": "select/pl_01_LONELY_NIGHTS_tofubeats.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "LONELY NIGHTS",
+      "artist": "tofubeats",
+      "has_synced": true,
+      "path": "select/localdb_01_LONELY_NIGHTS_tofubeats.lrc",
+      "repo_name": "etXw2kp_QQI"
+    }
+  ]
+}
