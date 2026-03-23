@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "LONELY NIGHTS",
   "base_artist": "tofubeats",
-  "createdAt": "2026-03-23T20:10:59.732343Z",
+  "createdAt": "2026-03-23T20:12:35.112798Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -139,6 +139,15 @@
       "artist": "tofubeats",
       "has_synced": true,
       "path": "select/localdb_01_LONELY_NIGHTS_tofubeats.lrc",
+      "repo_name": "wF-4-DcCQoI"
+    },
+    {
+      "id": "localdb_2",
+      "source": "localdb",
+      "title": "LONELY NIGHTS",
+      "artist": "tofubeats",
+      "has_synced": true,
+      "path": "select/localdb_02_LONELY_NIGHTS_tofubeats.lrc",
       "repo_name": "etXw2kp_QQI"
     }
   ]
